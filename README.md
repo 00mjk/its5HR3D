@@ -1,6 +1,6 @@
 # Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"> 
 
-𝗜'𝗺 [5HR3D](https://github.com/its5HR3D)！<b>Software Developer and Penetration Tester</b>
+𝗜'𝗺 [5HR3D](https://github.com/its5HR3D)! <b>Software Developer and Penetration Tester</b>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=its5HR3D&show_icons=true&hide_border=true">
 
